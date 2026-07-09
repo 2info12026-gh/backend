@@ -9,4 +9,4 @@ console.log("helloword")
 ***
 
 >esta linha foi desenvolvida na dev deliberadamente
->não poderia ser feita aqui. É apenas um teste
+>não poderia ser feita aqui. É apenas teste
